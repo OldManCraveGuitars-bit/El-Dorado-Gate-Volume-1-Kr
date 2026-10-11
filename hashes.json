@@ -1,0 +1,68 @@
+{
+  "schema": 1,
+  "version": "v0.75",
+  "internal_build": "1.7.2",
+  "game": "El-Dorado Gate Volume 1",
+  "platform": "Sega Dreamcast",
+  "supported_original": "Eldorado Gate Vol. 1 v1.002 (2000)(Capcom)(NTSC)(JP)[!]",
+  "tracks": {
+    "track01.bin": {
+      "bytes": 705600,
+      "before_sha256": "5b4a5857228be738a116dd8487255a0eca81e6874ab6febdca646369e7ea81bf",
+      "after_sha256": "5b4a5857228be738a116dd8487255a0eca81e6874ab6febdca646369e7ea81bf"
+    },
+    "track02.raw": {
+      "bytes": 1735776,
+      "before_sha256": "cd7c82d88f21e4ebb32a94c65f15f625df871c933d6d78cbf85c671778a6ffca",
+      "after_sha256": "cd7c82d88f21e4ebb32a94c65f15f625df871c933d6d78cbf85c671778a6ffca"
+    },
+    "track03.bin": {
+      "bytes": 1185760800,
+      "before_sha256": "85d40e5ded0b29bb5a6e3c9e53054ec15bafe2bbf65a10b7c81a7612b75a7b80",
+      "after_sha256": "90f85e04aa7b8fb353806ee916ab6ef1ba5a07eb9f918f035308a13565a4f733"
+    }
+  },
+  "output_gdi": "El-Dorado-Gate-Volume-1-Kr-v0.75.gdi",
+  "gdi_contents": "3\r\n1 0 4 2352 track01.bin 0\r\n2 450 0 2352 track02.raw 0\r\n3 45000 4 2352 track03.bin 0\r\n",
+  "gdi_sha256": "396548fe53f9b3641896398be563795ff190f9b0d7cc61c331901bc68f4e5392",
+  "patch": {
+    "file": "track03-v0.75.xdelta",
+    "bytes": 20208194,
+    "sha256": "c16814c19736a576495302a7de45858c2b2b68e0852649590db3ca8e3cffebf1"
+  },
+  "xdelta": {
+    "version": "3.2.1",
+    "sha256": "2081fb24a7b8a89d068b58e7d9353647d5fc1512a68bb6a37f71fc60ca84d943",
+    "license": "Apache-2.0",
+    "upstream": "https://github.com/jmacd/xdelta/releases/tag/v3.2.1"
+  },
+  "bonus_items": {
+    "count": 5,
+    "offline": true,
+    "external_dlc_required": false,
+    "original_prices_and_stats_preserved": true,
+    "items": [
+      {
+        "id": "0xF5",
+        "name": "크리스마스 트리"
+      },
+      {
+        "id": "0xF9",
+        "name": "목도리"
+      },
+      {
+        "id": "0xFE",
+        "name": "21CENTURY"
+      },
+      {
+        "id": "0xF7",
+        "name": "눈사람"
+      },
+      {
+        "id": "0xF8",
+        "name": "스케이트화"
+      }
+    ]
+  },
+  "full_playthrough_verified": false
+}

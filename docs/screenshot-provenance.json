@@ -1,0 +1,8 @@
+{
+  "all_images": "Actual emulator output; no AI rendering or reconstructed screenshots",
+  "title_and_opening_version": "1.7.2",
+  "options_and_saved_bonus_version": "1.7.1; the 48 nonmovie assets are byte-identical in 1.7.2",
+  "bonus_shop_test": "Private zero-price fixture; prices in the public patch are original",
+  "bonus_inventory": "Public 1.7.1 disc cold-loaded a VMU created by the private acquisition/save fixture",
+  "normal_story_progression_to_shop_verified": false
+}

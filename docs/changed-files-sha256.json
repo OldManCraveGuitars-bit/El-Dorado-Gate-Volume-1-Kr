@@ -1,0 +1,247 @@
+[
+  {
+    "file": "1ST_READ.BIN",
+    "before_sha256": "76b2e12c174eea4b05966e0b595ad7fe9cb38f7bd0aea00a397c976a6631ce4c",
+    "after_sha256": "d4c5e692759d153516a7deeaa49a82cf3f6a6a1997eb334cea20a5fe30e1a634"
+  },
+  {
+    "file": "2_DP.BIN",
+    "before_sha256": "f64fd63b4d41ff7408cbaa8566c1d96d67aec0ad3ac966969d37d5e4abe674c7",
+    "after_sha256": "41bdd0327e8bf8a1d15e7e5dda6670f3408edbab71be62912d46c7f81f5a91ce"
+  },
+  {
+    "file": "BOOT_TEX.TLP",
+    "before_sha256": "d2b233e1d09582bb38d2ca2c8fc43050e75e864838eaf45cd8664aa58aa4e594",
+    "after_sha256": "d13b4a0ffd638439ac341266f44c349b41446de75d95e0b772ef233fa2466a0c"
+  },
+  {
+    "file": "DP3.INI",
+    "before_sha256": "f17b70c36300660e628f6d9f04d4966ab24de3180cf16155765108fa6514a17d",
+    "after_sha256": "7407638fa8f9417615845e624dca404d9ec06e52aff24202c12b7fe07f868019"
+  },
+  {
+    "file": "OPENING.SFD",
+    "before_sha256": "99bebcb0aa9236ced3373a8bfd0984a3c345360e270eddd991da13ed365bdb0c",
+    "after_sha256": "f80eb4080c6432380056df467fc25db7a403ecdb68fdb34756dff62b9b29e456"
+  },
+  {
+    "file": "SCEN00.OVL",
+    "before_sha256": "ae5fe46177812fc76eae85e38a5f3cb18a165149ec65da3a948a66007c5129dc",
+    "after_sha256": "697726e10dfe9603ac068129605af4798d0c36c0a862d6dc5529bfba93336c1a"
+  },
+  {
+    "file": "SCEN01.OVL",
+    "before_sha256": "584f60385eccfa7fead7ef3c25a3eeeeb643c0162662f959a81b89f65e2e420a",
+    "after_sha256": "7237f46713263fb00457eeb046db83291cee664949b0b7a48743f10ce258344a"
+  },
+  {
+    "file": "SCEN02.OVL",
+    "before_sha256": "02222c7aa8eda0bb5621efc9258dcafc587eea262fe15a0330a44100d05438d0",
+    "after_sha256": "6b807e3c3e23f3d0d7b1807d17cac9743201dd68d751e2d577ad0bb12de09bbc"
+  },
+  {
+    "file": "SCEN04.OVL",
+    "before_sha256": "a5f908275cbca6c690fcadf54756c430c11d048c2ddaac3abab4b980114667f3",
+    "after_sha256": "456cf870765dd1eddac60e7a2cc4a43be743efe1da91648fef0ee4dbc13191e6"
+  },
+  {
+    "file": "SCEN05.OVL",
+    "before_sha256": "07f2a33430bf3247995f4fc7ef5a900056c481d50e9984d32ff7f80e536fd709",
+    "after_sha256": "25f2b1f77cc399fb896abf454521c809f2015546d6f8418e9324ae4307726344"
+  },
+  {
+    "file": "SCEN06.OVL",
+    "before_sha256": "54fa40018151786ee861e4dc9c39955ccbaa6db69fbf0467fdaa2ef46c06aa4e",
+    "after_sha256": "3a14026c655ea3f68ae2c81c6f1b36b5cbf0aae318741b8c51b200982aa198b9"
+  },
+  {
+    "file": "BATTLE/BEM.BIN",
+    "before_sha256": "b835da6f18a346cbb2a41aaeeb2c1f83d35871f0a3794ff1df9a46a1d6b8afd8",
+    "after_sha256": "a6a97d2c2ea1352872d2d8418c5ce89c20904bc748116620d7d1f7308b7d2728"
+  },
+  {
+    "file": "COMN/CARDOBJ.PAT",
+    "before_sha256": "89d9012230de01b22b120e14bcf924b9dee3be26e0e0d734f37697145ae0e3a0",
+    "after_sha256": "854a3f32e68d13f32e2bfc0f332de3702e897b3a0e765588fde388aa917d9531"
+  },
+  {
+    "file": "COMN/CARDOBJ.TLP",
+    "before_sha256": "fd4efc2351c3daa2ff471e29c475e53977be4f735e87a66749676eaa1a470600",
+    "after_sha256": "890453613fa27432ec6253bf52131d905213bb45bc68be0811b9c426e446440d"
+  },
+  {
+    "file": "COMN/ITEM.PAC",
+    "before_sha256": "6d61b1be46ed2a667c1270300fd6f25c6e76c989a468519994822f184e87b09d",
+    "after_sha256": "2c14dbcf76c510dd10da30a34172803e8ac682e7d6e5a10f7f087bf4a685c2fb"
+  },
+  {
+    "file": "COMN/LM00.TLP",
+    "before_sha256": "051f106e77097c736fcf01b117a9fabf795d9e55b7ab80e09bfeb64845c90967",
+    "after_sha256": "1d0b8dd9b08284e93ec5178edc61ccaedc8cc7294f72d6b830c6ccae8a4004fb"
+  },
+  {
+    "file": "COMN/LM01.TLP",
+    "before_sha256": "b4c9ef0a342b7663de65d43e2c6ec7ae0c7e76077b79df1983f08ffb572f3156",
+    "after_sha256": "13a782ca95ff6f381a50baf8dfa5e22fb7ebcdbaa1634687f861b161b6badea1"
+  },
+  {
+    "file": "COMN/LM02.TLP",
+    "before_sha256": "e59aa33d9d6f446a554eb5b0d1a54be6996686b11d40230b8085f7ae26b8020d",
+    "after_sha256": "24ddce36f1ee006f370c3023fd4414959700a5f7c4a7d05ffd8b25b685d0a4ac"
+  },
+  {
+    "file": "COMN/LM03.TLP",
+    "before_sha256": "68cfc07d32933656ef09582369039fe709583e886333988fd628d6d3ecf2d956",
+    "after_sha256": "06c864a20020df27fb6512c5d31b170ac2953c36d6f5a14f0ec3a017643f8f04"
+  },
+  {
+    "file": "COMN/LM04.TLP",
+    "before_sha256": "6a3d5149d7e020fe078211123f5e87f43d0ec8de85c324f4b79a60d1953f4bd2",
+    "after_sha256": "845ece64125693f3522230666a05843381260ced05a7aed7854241e658d1a129"
+  },
+  {
+    "file": "COMN/LM05.TLP",
+    "before_sha256": "02b33888fda907cd2261aa7da87764e6019338eef441e39cbe278e8f137567e4",
+    "after_sha256": "653e474ef70aeecd99c82bd0494379351a56e710554d3618b4744848827e4ac7"
+  },
+  {
+    "file": "COMN/LM06.TLP",
+    "before_sha256": "4521ad5c84d2b9f5c3b37b691ba4341956e00dd3ec2d57e64ef85e0fd638b446",
+    "after_sha256": "5bab6d298c9bf758d66f0e32311b5e830b1c9aead64b76a2ba8a1d080e4bed20"
+  },
+  {
+    "file": "COMN/LM07.TLP",
+    "before_sha256": "44a6d398b9802403399770da6d5ee72b1b427b47694faa8ea41fed1c34c65370",
+    "after_sha256": "8dd2909eaa1c8e453e67c72fe3dcd2c2f1667bba769bbaf442a7c2463f9d0da3"
+  },
+  {
+    "file": "COMN/LM08.TLP",
+    "before_sha256": "31011fd49cb8df28be08fa5a9945f128873e73940db63aba7611c77c6f7c1c02",
+    "after_sha256": "451622075709bfa02ee2d34dcbad2c7e8dc951ee1865f706e5f76ebe3dd05e6b"
+  },
+  {
+    "file": "COMN/TITLE.TLP",
+    "before_sha256": "46842c40c4fb6cec20f0db96cac33c6e5285c44a72fe8349142eb3e1703e0e27",
+    "after_sha256": "252e4e82dfdb8b1a02af521345dc39938c415e503c50abeabee36091b5e5c12a"
+  },
+  {
+    "file": "DPETC/MESSAGE.INI",
+    "before_sha256": "da4e9363a63e6ae9cfb1a487e7d802862a154a5db7d39b6e6015286a148fbe38",
+    "after_sha256": "a57c16124da8bafa20bd077bfdbfa000d32a70936638b18cfef8b3fc01b56849"
+  },
+  {
+    "file": "DPFONT/S18RM04P.DAT",
+    "before_sha256": "75a51961b44905c647f297ed8df9157517b5232165380b3471611e4aaf3c8630",
+    "after_sha256": "e788ff4fc567dcfa03abf11a6cd08180755f4792dcea5ff5b928d661d5585068"
+  },
+  {
+    "file": "DPFONT/S20RM04P.DAT",
+    "before_sha256": "aeecd3bccc7d07bfaf7e892f1de0fcb0d94438ade2088f99af75fad5e92cbefc",
+    "after_sha256": "59e9c808057bc428ebe881fe1ce0187c3ec325f53e067b2531607377ff98ad53"
+  },
+  {
+    "file": "DPFONT/S24RM04P.DAT",
+    "before_sha256": "bddda89d4ed583f45ea4e5711cc5d2f4376ec477033f601006c0477f39620a77",
+    "after_sha256": "8fdac0e7bceb367470bf5a2599b3f3210fc7bab2200a2ab6ee55155a88a0d5ce"
+  },
+  {
+    "file": "DPFONT/S26RM04P.DAT",
+    "before_sha256": "5b7c4808f6da068bbdc4d03612243e33695a2dfdb638c2e55c446935a389c55f",
+    "after_sha256": "58b9047c0ecdf0937c35f5d9d26d97e1d0d1ee5e5685e4a21267506876642095"
+  },
+  {
+    "file": "DPSS/001.GIF",
+    "before_sha256": "4d222482e9b8e00250fada28f1abb7302eebadf71db261df8b54c6e123a10cbb",
+    "after_sha256": "9ce2722141247bff605c673edcb8dd68741e24a71eeb421a8d2617cd141fc520"
+  },
+  {
+    "file": "DPTEX/C_M_S.PVR",
+    "before_sha256": "958bee0f4c13fc67626a8fdbb4bbec8fde56363f60fac2bdae1892d23a68aef1",
+    "after_sha256": "652a48d1049986441c3e634d89f4a522001b6f27f4ed282b8592e793830bebee"
+  },
+  {
+    "file": "DPTEX/JYOUCYU0.PVR",
+    "before_sha256": "e1ff6d1b3ce1121b9e07808c424fb823da31022afe45ed4ee63904619f22570c",
+    "after_sha256": "93d150f121575d366fbc2501e5fe37d10465bd70df63ac26526cf37520859e68"
+  },
+  {
+    "file": "DPTEX/JYOUCYU1.PVR",
+    "before_sha256": "65690ba62e8e0e6c8d2ac36b2ab4d03ce0b918a3f271eb008775a0fdf875acc9",
+    "after_sha256": "6ccbd2500eb51eed2c4d2f13309fab9f0d7fe154293f311ee81650c7b52b5651"
+  },
+  {
+    "file": "DPTEX/OPTION01.PVR",
+    "before_sha256": "b20cba23c2b758413090f3c616db5b8e141e0f8169804ad79d81e997b71263dd",
+    "after_sha256": "fcf0186bf3a38fd0fae05f7387dabd0c5cbbc06d635235b2b852a32d90b3e47c"
+  },
+  {
+    "file": "DPTEX/OPTION02.PVR",
+    "before_sha256": "fbf7b07f69324f89e555e89b5c9f564c8bf678eec838bf50404646827842dd44",
+    "after_sha256": "1aeb97661729143685235ec36deed1047315f05bb04be86a082ff835ca459c24"
+  },
+  {
+    "file": "DPTEX/OPTION03.PVR",
+    "before_sha256": "31b6200e9786569eb7e319487cc34fad3587d1d8fd2c5eeccae30f5b9baa2e4b",
+    "after_sha256": "fc1e829db437f334e2a989b6566467360957d53dd9f419feca456462e73af69e"
+  },
+  {
+    "file": "DPTEX/SU_ICO2.PVR",
+    "before_sha256": "11ae2ee22a1dcca1049f966b13a03e0cc2e56782514ad57c41833295ba41ad96",
+    "after_sha256": "760a0ebf520acde2c62af3a3c444c276d06433472f1f9cc657a8afc5880bb9bd"
+  },
+  {
+    "file": "DPTEX/SU_ICON.PVR",
+    "before_sha256": "f80e61122eae6e0d1cda388f6e0ff370555982416064de16a44bf7f50e996e1e",
+    "after_sha256": "7a3348e4e9ad052714832dd4bcadc93d1f73d149f0b6aee6d98266b649c6d730"
+  },
+  {
+    "file": "DPTEX/TAG_SU.PVR",
+    "before_sha256": "f4e01554688f3414769e375e79d290904f423f73926f5b909184fae82ab973b7",
+    "after_sha256": "0968c89637bbadc645b900fcaf07186d80625629031973c8fe7c609851a9cad0"
+  },
+  {
+    "file": "DPTEX/VMSPARTS.PVR",
+    "before_sha256": "ebf870fdaa53fcc3086d4e8557882e4568a7ca44641b6e3e04485641cbec2108",
+    "after_sha256": "91ad33238b2201f2d7db31d2b96894063fd30547cc8a38d188ed83a430529e96"
+  },
+  {
+    "file": "SCEN00/F00_0901.RLC",
+    "before_sha256": "f422b016eb217c2ee69d0748178a1ad0c06b1838dbc38b2d917e76757a6dd25e",
+    "after_sha256": "4cde054ced1701c8e837a4325e2955d65ffac002af7307fdd5b02b60bd992345"
+  },
+  {
+    "file": "SCEN01/F01_0A.RLC",
+    "before_sha256": "f1b5ddb0454d714891a64fa254a67ba2b1438a70d5b6781767f490a66fb9c35c",
+    "after_sha256": "367cf8850a620250c62d5e0885fffd88282cd55b7ee61d319b0c39ad5905f0fb"
+  },
+  {
+    "file": "SCEN06/PTSEL06.PAT",
+    "before_sha256": "751f844156577cdd2106d7252a2154fb2ad3623fc719217e59a82f67b70c6223",
+    "after_sha256": "40e87002899ad68e8ac74382c64fc94be522bb71db5ebe26cda23141629d347b"
+  },
+  {
+    "file": "SCEN06/PTSEL06.TLP",
+    "before_sha256": "0e780f83afb5ed482eda7671758ecf9fafa29124b0ad5c2114393fed9f90d665",
+    "after_sha256": "c6ca0bfc5880330dc64076e8eca42b2c9d404d16ecec90fdaba1c2176d5e1b68"
+  },
+  {
+    "file": "DPWWW/HELP/INDEX.HTM",
+    "before_sha256": "cc21e8a710aafc7131a02184f9648d5b0bd30296745f961f769e7ca6dc58d938",
+    "after_sha256": "10b0c5f0e55efd4e7c2602caf622106d557db4801e5906897a18d8cc43590e16"
+  },
+  {
+    "file": "DPWWW/HELP/IMG/DREAM_H.GIF",
+    "before_sha256": "7b2517e63ea0e476be43e831522abdb6ca69834a9e6340ee8899c07345b3f946",
+    "after_sha256": "8975da9fea4ede5f1ebc58e35f6b08029de54b97b252ff1888e3c4ab1581a5e2"
+  },
+  {
+    "file": "DPWWW/HELP/IMG/EL_HP.GIF",
+    "before_sha256": "fca08fed8c5b2389822a14363e8585074eee4767e69fb7a210a5ef5c58c30bae",
+    "after_sha256": "d9254ebffc6821225ee46c090b76418d7a3607a537475e6846e3b5b64870aa00"
+  },
+  {
+    "file": "DPWWW/HELP/IMG/EL_LOGO.GIF",
+    "before_sha256": "c4cf4675dd5a06342f62a5331cb1e9c7c24899cdf0cd1de1072d20d2e59f83fc",
+    "after_sha256": "11df9d31e8e48ddb934057039ed8a0380eb6203bc11cf37a8496bd1c696e7455"
+  }
+]

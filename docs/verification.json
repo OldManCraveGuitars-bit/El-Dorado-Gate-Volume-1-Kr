@@ -1,0 +1,46 @@
+{
+  "public_version": "v0.75",
+  "internal_build": "1.7.2",
+  "translated_records": 16182,
+  "extracted_records": 16313,
+  "excluded_records": 131,
+  "missing_extracted_translations": 0,
+  "canonical_japanese_korean_pairs_reviewed": 5792,
+  "translation_second_review_complete": true,
+  "item_name_records": 10941,
+  "enemy_names": 44,
+  "changed_files": 49,
+  "editor_movie_tests": 25,
+  "editor_gui_checks": 47,
+  "frozen_editor_full_gdi_build_verified": true,
+  "native_opening": {
+    "emulator": "Flycast libretro",
+    "bios": "HLE",
+    "ordinary_cold_boot": true,
+    "lyrics_visible": 9,
+    "screen_captions_applied": 16,
+    "no_lyrics_intervals": 2,
+    "returned_to_korean_title": true,
+    "original_adx_sectors_unchanged": 2214,
+    "original_and_patched_pcm_sha256": "15abf454aa25caa270971a436a9c6b5125a4f8117415bf9c1213a3d682aa3cc4"
+  },
+  "bonus": {
+    "all_five_items_purchased": true,
+    "native_vmu_save_and_reload_verified": true,
+    "production_cold_reload_verified": true,
+    "private_zero_price_fixture_used": true,
+    "private_inn_save_shortcut_used": true,
+    "private_overrides_in_public_patch": false,
+    "playable_test_save_included": false,
+    "original_prices_and_stats_preserved": true,
+    "external_dlc_imported": false,
+    "normal_story_progression_to_shop_verified": false
+  },
+  "full_playthrough_verified": false,
+  "real_hardware_verified": false,
+  "remaining": [
+    "Full ordinary playthrough and normal shop access",
+    "Two revised theft battle suffixes",
+    "Enlarged dialogue tilde display"
+  ]
+}
