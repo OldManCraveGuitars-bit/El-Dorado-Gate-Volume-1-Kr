@@ -4,5 +4,53 @@
   "options_and_saved_bonus_version": "1.7.1; the 48 nonmovie assets are byte-identical in 1.7.2",
   "bonus_shop_test": "Private zero-price fixture; prices in the public patch are original",
   "bonus_inventory": "Public 1.7.1 disc cold-loaded a VMU created by the private acquisition/save fixture",
-  "normal_story_progression_to_shop_verified": false
+  "normal_story_progression_to_shop_verified": false,
+  "dialogue_screenshots": [
+    {
+      "file": "dialogue-hall.png",
+      "caption": "성 안의 대화",
+      "source": "analysis/options-layout-review/korean/128-wave-fresh-hall-dialogue.png",
+      "sha256": "90de7deb582cd71b2d75a7e77a61138eef44115ee80c38db13f94a296f1cc8cf",
+      "size": [
+        640,
+        480
+      ],
+      "actual_emulator_capture": true,
+      "pixel_edits": false,
+      "capture_version": "1.7.1",
+      "private_chapter_selection_fixture": true,
+      "dialogue_and_font_assets_identical_to_1_7_2": true
+    },
+    {
+      "file": "dialogue-guide.png",
+      "caption": "장소 안내 대화",
+      "source": "analysis/options-layout-review/korean/068-wave-fixture-intro-end.png",
+      "sha256": "40da6ec7fa1198fdc023a0d170c572aa7fe1c85e033262f3f7efa88a50336753",
+      "size": [
+        640,
+        480
+      ],
+      "actual_emulator_capture": true,
+      "pixel_edits": false,
+      "capture_version": "1.7.1",
+      "private_chapter_selection_fixture": true,
+      "dialogue_and_font_assets_identical_to_1_7_2": true
+    },
+    {
+      "file": "dialogue-command-room.png",
+      "caption": "사령실 앞의 대화",
+      "source": "analysis/options-layout-review/korean/069-wave-fixture-north-command-room.png",
+      "sha256": "d10df0deef78dcca42a8e6cea793bfa885a2becec3a42367089d29745a624814",
+      "size": [
+        640,
+        480
+      ],
+      "actual_emulator_capture": true,
+      "pixel_edits": false,
+      "capture_version": "1.7.1",
+      "private_chapter_selection_fixture": true,
+      "dialogue_and_font_assets_identical_to_1_7_2": true
+    }
+  ],
+  "dialogue_capture_scope": "Actual Flycast output from 1.7.1 using a private chapter-selection fixture. Dialogue and font assets match the public 1.7.2 build byte for byte. These images demonstrate rendering, not completion of normal story progression."
 }

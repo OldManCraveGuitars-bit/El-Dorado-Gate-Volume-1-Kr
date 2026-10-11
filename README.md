@@ -67,6 +67,14 @@ Vol.1 자체의 장신구 데이터와 원래 다운로드 상점 처리 코드�
 ![설정 화면](screenshots/options.png)
 ![저장/불러오기 화면](screenshots/save-load.png)
 
+## 인게임 대사
+
+![성 안의 대화](screenshots/dialogue-hall.png)
+
+![장소 안내 대화](screenshots/dialogue-guide.png)
+
+![사령실 앞의 대화](screenshots/dialogue-command-room.png)
+
 ## 오프닝 자막
 
 화면 문구 16구간과 사용자가 확인한 가사 9구간을 적용했습니다.
