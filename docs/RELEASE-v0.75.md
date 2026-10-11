@@ -67,6 +67,14 @@ Vol.1 자체의 장신구 데이터와 원래 다운로드 상점 처리 코드�
 ![설정 화면](https://raw.githubusercontent.com/OldManCraveGuitars-bit/El-Dorado-Gate-Volume-1-Kr/v0.75/screenshots/options.png)
 ![저장/불러오기 화면](https://raw.githubusercontent.com/OldManCraveGuitars-bit/El-Dorado-Gate-Volume-1-Kr/v0.75/screenshots/save-load.png)
 
+## 인게임 대사
+
+![성 안의 대화](https://raw.githubusercontent.com/OldManCraveGuitars-bit/El-Dorado-Gate-Volume-1-Kr/c90c75a9cd9fec76abf19940533f28fbe489bce1/screenshots/dialogue-hall.png)
+
+![장소 안내 대화](https://raw.githubusercontent.com/OldManCraveGuitars-bit/El-Dorado-Gate-Volume-1-Kr/c90c75a9cd9fec76abf19940533f28fbe489bce1/screenshots/dialogue-guide.png)
+
+![사령실 앞의 대화](https://raw.githubusercontent.com/OldManCraveGuitars-bit/El-Dorado-Gate-Volume-1-Kr/c90c75a9cd9fec76abf19940533f28fbe489bce1/screenshots/dialogue-command-room.png)
+
 ## 오프닝 자막
 
 화면 문구 16구간과 사용자가 확인한 가사 9구간을 적용했습니다.
@@ -88,7 +96,7 @@ Flycast HLE 일반 부팅에서 가사 9구간 표시와 영상 종료 후 한�
 큰 글씨 물결표 표시. 실기·실제 BIOS에서의 구동도 미검증입니다.
 추출 목록의 미번역 0개는 모든 게임 화면의 누락 없음이나 전체 클리어 검증을 뜻하지 않습니다.
 
-검증 자료: [verification.json](https://github.com/OldManCraveGuitars-bit/El-Dorado-Gate-Volume-1-Kr/blob/v0.75/docs/verification.json), [스크린샷 출처와 시험 조건](https://github.com/OldManCraveGuitars-bit/El-Dorado-Gate-Volume-1-Kr/blob/v0.75/docs/screenshot-provenance.json).
+검증 자료: [verification.json](https://github.com/OldManCraveGuitars-bit/El-Dorado-Gate-Volume-1-Kr/blob/v0.75/docs/verification.json), [스크린샷 출처와 시험 조건](https://github.com/OldManCraveGuitars-bit/El-Dorado-Gate-Volume-1-Kr/blob/c90c75a9cd9fec76abf19940533f28fbe489bce1/docs/screenshot-provenance.json).
 
 ## 원본 / 적용 후 SHA-256
 
