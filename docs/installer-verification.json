@@ -1,16 +1,15 @@
 {
-  "version": "v0.75",
+  "version": "v0.77",
   "success": true,
   "checks": [
-    "Frozen EXE GUI and embedded manifest load",
-    "Frozen EXE applies bundled engine and released delta to original 3-track GDI",
-    "All three outputs match the immutable native-reviewed 1.7.2 image",
+    "Frozen EXE GUI and embedded v0.77 manifest",
+    "Frozen EXE applies released delta to original GDI",
+    "All output hashes equal frozen-editor build 1.7.3",
     "Output GDI content hash matches",
-    "Original ROM tracks unchanged after installation",
-    "Existing output refused without changing any file",
-    "Wrong original rejected before creating an output directory",
-    "Tampered delta rejected before output creation",
-    "Eight native screenshot files decode correctly"
+    "Original tracks unchanged",
+    "Existing output untouched",
+    "Modified original rejected before output creation",
+    "Tampered delta rejected before output creation"
   ],
   "original_hashes": {
     "track01.bin": "5b4a5857228be738a116dd8487255a0eca81e6874ab6febdca646369e7ea81bf",
@@ -20,10 +19,11 @@
   "output_hashes": {
     "track01.bin": "5b4a5857228be738a116dd8487255a0eca81e6874ab6febdca646369e7ea81bf",
     "track02.raw": "cd7c82d88f21e4ebb32a94c65f15f625df871c933d6d78cbf85c671778a6ffca",
-    "track03.bin": "90f85e04aa7b8fb353806ee916ab6ef1ba5a07eb9f918f035308a13565a4f733"
+    "track03.bin": "f95f4c369866248930cf51e30d7f22f97816c767672609f9af40196e4f4a8d7a"
   },
-  "installer_sha256": "e066bc20964ddb08a7e27625244d89ab8c5a415436ab768f947c866e8dad75ba",
-  "delta_sha256": "c16814c19736a576495302a7de45858c2b2b68e0852649590db3ca8e3cffebf1",
+  "installer_sha256": "c82f286cacdda1e1ddc5a978e4580f4e80b184d1e3c0d9e3e004744bee8a358b",
+  "delta_sha256": "f6fce3f06174bd0d519d3af4089428dcefdd4115c50cee5afc7050819b0d3e94",
+  "editor_gui_checks": 47,
   "full_playthrough_verified": false,
   "temporary_image_removed": true
 }
