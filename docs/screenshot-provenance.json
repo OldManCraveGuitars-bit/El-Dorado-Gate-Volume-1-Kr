@@ -1,5 +1,4 @@
 {
-  "all_images": "Actual emulator output; no AI rendering or reconstructed screenshots",
   "options_and_saved_bonus_version": "1.7.1; the 48 nonmovie assets are byte-identical in 1.7.2",
   "bonus_shop_test": "Private zero-price fixture; prices in the public patch are original",
   "bonus_inventory": "Public 1.7.1 disc cold-loaded a VMU created by the private acquisition/save fixture",
@@ -56,5 +55,84 @@
   "opening_version": "1.7.2; OPENING.SFD is byte-identical in v0.77",
   "v077_title_sha256": "4997cdd91034d041f5117ab75ffe45b92b547845a7f786aac98ef7fef6397bb8",
   "older_ui_and_dialogue_screenshots_retained": true,
-  "v077_field_and_shop_screenshots_available": false
+  "v077_field_and_shop_screenshots_available": false,
+  "v100_note": "Existing eleven emulator captures retained with their historical capture versions; three current graphic previews are explicitly labelled and are not gameplay captures.",
+  "graphic_previews": [
+    {
+      "file": "chapter3-title-preview.png",
+      "caption": "시나리오 3 제목: 롬에 반영한 네이티브 이미지",
+      "sha256": "1d1641a46bffaa17a084eb569bda686eb6f71a024582eaf902609ec4c0a05338",
+      "actual_emulator_capture": false
+    },
+    {
+      "file": "status-galmuri7-comparison.png",
+      "caption": "갈무리9 이전안과 갈무리7 최종안의 9종 비교; 인게임 캡처 아님",
+      "sha256": "404dc2fc2f3e5dd10e708c06041009059fd49db5a8c79fade0395f33637fd212",
+      "actual_emulator_capture": false
+    },
+    {
+      "file": "ending-localization-credit-preview.png",
+      "caption": "마지막 크레딧: 롬에 반영한 편집 원본; 검은 배경의 그래픽 미리보기",
+      "sha256": "97d5e333721dc73a4fbedf03135cd2ef97d05ef2df9513a2ba17173ea7ebab1d",
+      "actual_emulator_capture": false
+    }
+  ],
+  "published_images": [
+    {
+      "file": "bonus-items.png",
+      "sha256": "de879d3d0445be5e52cde3f2ee2840ad3224fc624d199115064b51da7659e3ac"
+    },
+    {
+      "file": "bonus-shop-test.png",
+      "sha256": "28174cb26cad7489a1d86dbaa668e3849548e7e08cd2987267bd7c1bae01bbd3"
+    },
+    {
+      "file": "chapter3-title-preview.png",
+      "sha256": "1d1641a46bffaa17a084eb569bda686eb6f71a024582eaf902609ec4c0a05338"
+    },
+    {
+      "file": "dialogue-command-room.png",
+      "sha256": "d10df0deef78dcca42a8e6cea793bfa885a2becec3a42367089d29745a624814"
+    },
+    {
+      "file": "dialogue-guide.png",
+      "sha256": "40da6ec7fa1198fdc023a0d170c572aa7fe1c85e033262f3f7efa88a50336753"
+    },
+    {
+      "file": "dialogue-hall.png",
+      "sha256": "90de7deb582cd71b2d75a7e77a61138eef44115ee80c38db13f94a296f1cc8cf"
+    },
+    {
+      "file": "ending-localization-credit-preview.png",
+      "sha256": "97d5e333721dc73a4fbedf03135cd2ef97d05ef2df9513a2ba17173ea7ebab1d"
+    },
+    {
+      "file": "opening-both-captions.png",
+      "sha256": "74e8ce098d0e6824e5a0656294c82356c0df771dc523bdbfdd5bbbd32f3aa403"
+    },
+    {
+      "file": "opening-fight-caption.png",
+      "sha256": "5e4ce8cd9250e93b3c1669c184638473fe6cf59bb358a3d2bbb0a8055004743e"
+    },
+    {
+      "file": "opening-lyrics.png",
+      "sha256": "c36f69ea3ff2fd53b8bc9ed5022e4ab96659f7161ad0dbe2aac1b2f9c3b2ac66"
+    },
+    {
+      "file": "options.png",
+      "sha256": "5a088088f944fde91b9d34b4ec2e3bdbd84b28c9fa48b73ccf73dc7c787e9000"
+    },
+    {
+      "file": "save-load.png",
+      "sha256": "8a59fefa3d2c26a989b3663b905dcf6aa3ee3af9959dda5be93ff458080a2577"
+    },
+    {
+      "file": "status-galmuri7-comparison.png",
+      "sha256": "404dc2fc2f3e5dd10e708c06041009059fd49db5a8c79fade0395f33637fd212"
+    },
+    {
+      "file": "title.png",
+      "sha256": "4997cdd91034d041f5117ab75ffe45b92b547845a7f786aac98ef7fef6397bb8"
+    }
+  ]
 }

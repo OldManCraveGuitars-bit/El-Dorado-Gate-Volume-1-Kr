@@ -2,7 +2,7 @@
   {
     "file": "1ST_READ.BIN",
     "before_sha256": "76b2e12c174eea4b05966e0b595ad7fe9cb38f7bd0aea00a397c976a6631ce4c",
-    "after_sha256": "89583fbe8180e21f92ba6190b960d8b31184ab714be2f08acae39bc8ad4fa807"
+    "after_sha256": "5d0dc465f401faf60ad7976c1c853eaeedbb1ea5e9fa68c4ea97ff89e898c58f"
   },
   {
     "file": "2_DP.BIN",
@@ -12,7 +12,7 @@
   {
     "file": "BOOT_TEX.TLP",
     "before_sha256": "d2b233e1d09582bb38d2ca2c8fc43050e75e864838eaf45cd8664aa58aa4e594",
-    "after_sha256": "66f5fb217657ef59ca15ebff54e1d9b7ea90faca91606995bb058f60ee0f9abf"
+    "after_sha256": "ef4e5252cd5bd4e406bd396a059a62da9d847e95307116b502a73cd2a2f4713e"
   },
   {
     "file": "DP3.INI",
@@ -27,32 +27,32 @@
   {
     "file": "SCEN00.OVL",
     "before_sha256": "ae5fe46177812fc76eae85e38a5f3cb18a165149ec65da3a948a66007c5129dc",
-    "after_sha256": "dab5a91af83c0bee4e477decfbdcd494027ab263de751457d7c99f1a7edd038c"
+    "after_sha256": "c0676088f6177f498c9a56c8415e9ac45bb0444fd3c36efaafe12fee6e7051d8"
   },
   {
     "file": "SCEN01.OVL",
     "before_sha256": "584f60385eccfa7fead7ef3c25a3eeeeb643c0162662f959a81b89f65e2e420a",
-    "after_sha256": "8852a919fd1cf4052ce25ba5c06cc5c406f6be34aa975536c5c1aed074ce2d84"
+    "after_sha256": "065c70eb77db3ee282f6473b3f91196633e87aeb47d8c8300b8900b8a8822b1c"
   },
   {
     "file": "SCEN02.OVL",
     "before_sha256": "02222c7aa8eda0bb5621efc9258dcafc587eea262fe15a0330a44100d05438d0",
-    "after_sha256": "007897584aea0ce2d60007c12d3ef65ca83cfd88d536b4244f10d414deb67980"
+    "after_sha256": "5966f68841480e68c5e534feebff5d4978c50963f01279dc0d2cc19ffd5d42e8"
   },
   {
     "file": "SCEN04.OVL",
     "before_sha256": "a5f908275cbca6c690fcadf54756c430c11d048c2ddaac3abab4b980114667f3",
-    "after_sha256": "591c7862fba1cb8296965194a91c0171af88be37c8c9d60533a79861b704788b"
+    "after_sha256": "f915a9ae1a8a062df8d1df5e7a4da468b4918f5ed621e25227c00d9c4d3ccaed"
   },
   {
     "file": "SCEN05.OVL",
     "before_sha256": "07f2a33430bf3247995f4fc7ef5a900056c481d50e9984d32ff7f80e536fd709",
-    "after_sha256": "7edd3c27d1888a22a9bfafe857e020f99c5b31feb58ff15884640dc953948c9c"
+    "after_sha256": "eac032e7df2f722c33b54455e8d8437799965527ad3b48268ecfb1389a96011c"
   },
   {
     "file": "SCEN06.OVL",
     "before_sha256": "54fa40018151786ee861e4dc9c39955ccbaa6db69fbf0467fdaa2ef46c06aa4e",
-    "after_sha256": "c4c29b5436dfeefc2591e46191c731259d60b77217a5c3b860cb0c4d15b62eec"
+    "after_sha256": "63f9b73f16f6a8ac64e6e83c6238e19f265de84d78936a5f22ece20ce88e9caa"
   },
   {
     "file": "BATTLE/BEM.BIN",
@@ -68,6 +68,21 @@
     "file": "COMN/CARDOBJ.TLP",
     "before_sha256": "fd4efc2351c3daa2ff471e29c475e53977be4f735e87a66749676eaa1a470600",
     "after_sha256": "890453613fa27432ec6253bf52131d905213bb45bc68be0811b9c426e446440d"
+  },
+  {
+    "file": "COMN/EN_OBJ00.RLC",
+    "before_sha256": "16a27132226b4d8c5e7387b7a3d7191aecec48d990a6c69274166476aefeb25e",
+    "after_sha256": "7df56577c1607a1b8484d3d34e60184015e12b71c1f90290d77581742df8f37d"
+  },
+  {
+    "file": "COMN/EN_OBJ01.RLC",
+    "before_sha256": "480ab1e3ac7edad026dcfd15c79a0c0cdc9563c2ebf2142e5c522337988488e5",
+    "after_sha256": "294bc28643e090a3d4465589bf32789046380cf794281e9b455ebcba03ac483c"
+  },
+  {
+    "file": "COMN/EN_OBJ02.RLC",
+    "before_sha256": "aabfa91cedb8d131b945f3f32c0585f5af8b36761bde7f1247b8705dba430314",
+    "after_sha256": "33cfc0a400710b5eca80a91633460927f49ffb642c44027f0190b9c0caecf6fc"
   },
   {
     "file": "COMN/ITEM.PAC",
@@ -213,6 +228,11 @@
     "file": "SCEN01/F01_0A.RLC",
     "before_sha256": "f1b5ddb0454d714891a64fa254a67ba2b1438a70d5b6781767f490a66fb9c35c",
     "after_sha256": "367cf8850a620250c62d5e0885fffd88282cd55b7ee61d319b0c39ad5905f0fb"
+  },
+  {
+    "file": "SCEN02/F02_09.RLC",
+    "before_sha256": "1d2c0a614edcdfd08070b5da9aaa8ddea95e6b377df800809c8f48955ec497fd",
+    "after_sha256": "a4680b1a7863839c852c68b353c42ef6a95a05ded4c83a74afbda08f5194ed5f"
   },
   {
     "file": "SCEN06/PTSEL06.PAT",

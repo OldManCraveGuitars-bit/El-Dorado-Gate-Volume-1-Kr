@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "v0.77",
-  "internal_build": "1.7.3",
+  "version": "v1.0",
+  "internal_build": "1.7.13",
   "game": "El-Dorado Gate Volume 1",
   "platform": "Sega Dreamcast",
   "supported_original": "Eldorado Gate Vol. 1 v1.002 (2000)(Capcom)(NTSC)(JP)[!]",
@@ -19,16 +19,16 @@
     "track03.bin": {
       "bytes": 1185760800,
       "before_sha256": "85d40e5ded0b29bb5a6e3c9e53054ec15bafe2bbf65a10b7c81a7612b75a7b80",
-      "after_sha256": "f95f4c369866248930cf51e30d7f22f97816c767672609f9af40196e4f4a8d7a"
+      "after_sha256": "da0bb860f9d1a79441df87712f93ae9660b67370ad61e6c9163ec3878a099429"
     }
   },
   "output_gdi": "DC-El-Dorado-Gate-Volume-1.gdi",
   "gdi_contents": "3\r\n1 0 4 2352 track01.bin 0\r\n2 450 0 2352 track02.raw 0\r\n3 45000 4 2352 track03.bin 0\r\n",
   "gdi_sha256": "396548fe53f9b3641896398be563795ff190f9b0d7cc61c331901bc68f4e5392",
   "patch": {
-    "file": "track03-v0.77.xdelta",
-    "bytes": 20208106,
-    "sha256": "f6fce3f06174bd0d519d3af4089428dcefdd4115c50cee5afc7050819b0d3e94"
+    "file": "track03-v1.0.xdelta",
+    "bytes": 20553372,
+    "sha256": "dabcfa75fc3c2edba5d15fbe7751a49d760d7e45416c336a240be148ab3aeae6"
   },
   "xdelta": {
     "version": "3.2.1",
@@ -64,5 +64,6 @@
       }
     ]
   },
-  "full_playthrough_verified": false
+  "full_playthrough_verified": false,
+  "display_name": "비공식 한글판 v1.0"
 }

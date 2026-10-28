@@ -1,15 +1,16 @@
 {
-  "version": "v0.77",
+  "version": "v1.0",
+  "internal_build": "1.7.13",
   "success": true,
-  "checks": [
-    "Frozen EXE GUI and embedded v0.77 manifest",
-    "Frozen EXE applies released delta to original GDI",
-    "All output hashes equal frozen-editor build 1.7.3",
-    "Output GDI content hash matches",
-    "Original tracks unchanged",
-    "Existing output untouched",
-    "Modified original rejected before output creation",
-    "Tampered delta rejected before output creation"
+  "frozen_installer_gui_and_embedded_manifest_verified": true,
+  "frozen_installer_end_to_end_verified": true,
+  "all_output_hashes_match_latest_local_image": true,
+  "original_tracks_unchanged": true,
+  "existing_output_unchanged": true,
+  "rejected_inputs": [
+    "existing-output",
+    "modified-source",
+    "tampered-delta"
   ],
   "original_hashes": {
     "track01.bin": "5b4a5857228be738a116dd8487255a0eca81e6874ab6febdca646369e7ea81bf",
@@ -19,11 +20,12 @@
   "output_hashes": {
     "track01.bin": "5b4a5857228be738a116dd8487255a0eca81e6874ab6febdca646369e7ea81bf",
     "track02.raw": "cd7c82d88f21e4ebb32a94c65f15f625df871c933d6d78cbf85c671778a6ffca",
-    "track03.bin": "f95f4c369866248930cf51e30d7f22f97816c767672609f9af40196e4f4a8d7a"
+    "track03.bin": "da0bb860f9d1a79441df87712f93ae9660b67370ad61e6c9163ec3878a099429"
   },
-  "installer_sha256": "c82f286cacdda1e1ddc5a978e4580f4e80b184d1e3c0d9e3e004744bee8a358b",
-  "delta_sha256": "f6fce3f06174bd0d519d3af4089428dcefdd4115c50cee5afc7050819b0d3e94",
-  "editor_gui_checks": 47,
+  "installer_sha256": "5ee7950da2a9e9056220802dfd30e3cfc0a5b73df9e42cee5b0f2cba99b18d1f",
+  "delta_sha256": "dabcfa75fc3c2edba5d15fbe7751a49d760d7e45416c336a240be148ab3aeae6",
+  "screenshots_checked": 14,
+  "current_focused_regression_tests_passed": 20,
   "full_playthrough_verified": false,
-  "temporary_image_removed": true
+  "native_ending_playback_verified": false
 }
